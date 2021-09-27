@@ -1,5 +1,5 @@
 {
-    "accountType": "mojang", // set this to microsoft if you want to use a microsoft account
+    "accountType": "microsoft", // set this to microsoft if you want to use a microsoft account
     "discordBot": true,
     "webserver": true,
     "ports": {
