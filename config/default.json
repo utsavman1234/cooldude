@@ -4,7 +4,7 @@
     "webserver": true,
     "ports": {
         "minecraft": 25565, // port for the proxy server
-        "web": 8080
+        "web": 80
     },
     "address":{ // address 2b2w listens on. if you leave it on 0.0.0.0 you can via all IPs
     	"minecraft": "0.0.0.0",
