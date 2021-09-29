@@ -1,7 +1,7 @@
 {
     "accountType": "microsoft", // set this to microsoft if you want to use a microsoft account
     "discordBot": true,
-    "webserver": true,
+    "webserver": false,
     "ports": {
         "minecraft": 25565, // port for the proxy server
         "web": 80
